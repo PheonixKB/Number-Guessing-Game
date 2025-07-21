@@ -35,6 +35,6 @@ A simple terminal-based Number Guessing Game developed in Python where the playe
 Make sure you have Python installed on your system. Then:
 
 ```bash
-git clone https://github.com/your-username/number-guessing-game.git
-cd number-guessing-game
+git clone https://github.com/PheonixKB/Number-Guessing-Game.git
+cd Number-Guessing-Game
 python number_guessing_game.py
