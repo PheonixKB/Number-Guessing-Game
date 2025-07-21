@@ -1,6 +1,6 @@
 # 🎯 Number Guessing Game (Python)
 
-A simple terminal-based Number Guessing Game developed in Python where the player tries to guess a number between 1 and 100. The game offers multiple difficulty levels and keeps track of your best attempts and fastest time for each level.
+A simple terminal-based Number Guessing Game developed in Python where the player tries to guess a number between 1 and 100. The game offers multiple difficulty levels and keeps track of your best attempts and fastest time for each level.This project was provided by Roadmap.sh, at this link: https://roadmap.sh/projects/number-guessing-game
 
 ---
 
