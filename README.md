@@ -38,3 +38,28 @@ Make sure you have Python installed on your system. Then:
 git clone https://github.com/PheonixKB/Number-Guessing-Game.git
 cd Number-Guessing-Game
 python number_guessing_game.py
+```
+## 🛠️ **Tech Stack**
+- Language: Python 3
+
+- Libraries: random, time
+
+## 📦 **Future Enhancements**
+- Add multiplayer support
+
+- Save scores across sessions using files or a database
+
+- Create a GUI version using tkinter or PyQt
+
+- Add sound effects or animations for better experience
+
+## 🤝 **Contributing**
+- Pull requests are welcome!
+- For major changes, please open an issue first to discuss what you would like to change.
+
+## 📄 **License**
+- This project is licensed under the MIT License.
+- Let me know if you’d like help:
+  - Adding badges (e.g., Python version)
+  - Making a GitHub repository template
+  - Turning this into a GUI app or web version
